@@ -53,6 +53,7 @@ export const Footer = () => {
             </p>
           </div>
           <div className="col-md-3 py-3">
+            
             <div className="h6">Products</div>
             <hr />
             <ul className="list-group list-group-flush">
